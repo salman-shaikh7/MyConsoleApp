@@ -12,3 +12,4 @@ C:\Users\salma\OneDrive\Desktop\DIS\MyConsoleApp\obj\Debug\net8.0\refint\MyConso
 C:\Users\salma\OneDrive\Desktop\DIS\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\salma\OneDrive\Desktop\DIS\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\salma\OneDrive\Desktop\DIS\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\salma\OneDrive\Desktop\DIS\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
